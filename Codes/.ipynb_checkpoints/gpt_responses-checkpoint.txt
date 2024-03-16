@@ -1,0 +1,721 @@
+Expected: INFJ
+Predicted: INFP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: ESFP
+Predicted: ESTP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ESTJ
+Predicted: ENTP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: INFJ
+Predicted: ISFP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ENTP
+Predicted: INTP
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INTP
+Predicted: ENTP
+-------
+Expected: INFP
+Predicted: ENFP
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ISFP
+Predicted: ENFP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ESTJ
+Predicted: ENTJ
+-------
+Expected: ESFP
+Predicted: ESTP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: INFP
+Predicted: INFJ
+-------
+Expected: ISFP
+Predicted: INFP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESTP
+Predicted: INTP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESFP
+Predicted: ENTP
+-------
+Expected: ISTJ
+Predicted: ISFJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ISFJ
+Predicted: ENFP
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: INTP
+Predicted: INFP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ENTJ
+Predicted: INTJ
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: ENFJ
+Predicted: ENFP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: ESFP
+Predicted: ESTP
+-------
+Expected: INTJ
+Predicted: ENTP
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ESFJ
+Predicted: INFP
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ESFJ
+Predicted: INTP
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ISFP
+Predicted: ISTP
+-------
+Expected: ESFP
+Predicted: ESFP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ISTJ
+Predicted: INTJ
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ESFP
+Predicted: ESTP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: ESFJ
+Predicted: ISFP
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ISTP
+Predicted: ENFP
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ISTJ
+Predicted: INFJ
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ESFP
+Predicted: ISFP
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: INTP
+Predicted: INFP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ESFP
+Predicted: ESFP
+-------
+Expected: ESTJ
+Predicted: ENTP
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: INTJ
+Predicted: INFJ
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: ISTJ
+Predicted: ENFJ
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: INTJ
+Predicted: ENFP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ESFP
+Predicted: ENFP
+-------
+Expected: INFJ
+Predicted: INFP
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: ENTJ
+Predicted: ENTP
+-------
+Expected: INFJ
+Predicted: INFP
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ISTJ
+Predicted: ENTJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ENTJ
+Predicted: ESFP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESFP
+Predicted: ESFP
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ISTP
+Predicted: INTP
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: ESFP
+Predicted: ESFP
+-------
+Expected: ENFJ
+Predicted: INFJ
+-------
+Expected: ISTP
+Predicted: ISTJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESFP
+Predicted: INTP
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ESTP
+Predicted: ISTP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: INFJ
+Predicted: ISTJ
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ISTP
+Predicted: ENTJ
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: INTP
+Predicted: ENFP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+Expected: ESFP
+Predicted: ESFP
+-------
+Expected: ESTP
+Predicted: INFJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INTP
+Predicted: INTP
+-------
+Expected: ESFJ
+Predicted: ENFJ
+-------
+Expected: ENTP
+Predicted: ESTP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ISFP
+Predicted: INFP
+-------
+Expected: ESFP
+Predicted: ESTP
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: ISFP
+Predicted: ENTP
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ESFJ
+Predicted: ISFJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ESTJ
+Predicted: ISTJ
+-------
+Expected: ESFP
+Predicted: ESFP
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ENFJ
+Predicted: ENFJ
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: ISTP
+Predicted: ISFJ
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ESFJ
+Predicted: ESFJ
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ISFP
+Predicted: ENFP
+-------
+Expected: ESTJ
+Predicted: ISTJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ENFP
+Predicted: ENFP
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INTP
+Predicted: INTJ
+-------
+Expected: ESTP
+Predicted: ESTP
+-------
+Expected: INFJ
+Predicted: INFJ
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: ISFP
+Predicted: ISFP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: INFJ
+Predicted: INTJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: INTJ
+Predicted: INTP
+-------
+Expected: ESTJ
+Predicted: ESTJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: INFP
+Predicted: INFP
+-------
+Expected: ESFJ
+Predicted: ENFP
+-------
+Expected: ESTJ
+Predicted: ENFP
+-------
+Expected: INTJ
+Predicted: INFP
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ISFJ
+Predicted: ISFJ
+-------
+Expected: ISTJ
+Predicted: ISTJ
+-------
+Expected: ISTP
+Predicted: INTP
+-------
+Expected: ISTP
+Predicted: ISTP
+-------
+Expected: ENTP
+Predicted: ENTP
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: INTJ
+Predicted: INTJ
+-------
+Expected: INFJ
+Predicted: INFP
+-------
+Expected: ENTJ
+Predicted: ENTJ
+-------
+
